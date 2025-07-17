@@ -1,5 +1,5 @@
-Metadata-Version: 2.1
-Name: st-ant-tree
+Metadata-Version: 2.4
+Name: st_ant_tree
 Version: 0.0.15
 Summary: Streamlit Component for ANT Tree
 Home-page: https://github.com/flucas96/st_ant_tree
@@ -12,6 +12,16 @@ Classifier: Programming Language :: Python :: 3.6
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
+Requires-Dist: streamlit>=0.63
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
 
 # Streamlit ANT Tree Select Component
 
